@@ -3,7 +3,7 @@ eureka:
     serviceUrl:
       defaultZone: http://47.96.89.227:18761/eureka/
 server:
-  port: 18762
+  port: 18763
 spring:
   application:
     name: service-hi3
