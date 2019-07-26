@@ -3,10 +3,10 @@ eureka:
     serviceUrl:
       defaultZone: http://47.96.89.227:18761/eureka/
 server:
-  port: 18762
+  port: 18764
 spring:
   application:
-    name: service-hi
+    name: service-elk
   zipkin:
     base-url: http://47.96.89.227:9411
   sleuth:

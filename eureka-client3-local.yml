@@ -11,6 +11,7 @@ spring:
     base-url: http://47.96.89.227:9411
   sleuth:
     sampler:
+#      percentage: 1.0
       probability: 1.0
 
 
